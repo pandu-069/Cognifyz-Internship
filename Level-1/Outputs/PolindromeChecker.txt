@@ -1,0 +1,3 @@
+Enter the String to check whether it is a polindrome or not.
+Vamsismav
+The given String is not a polindrome

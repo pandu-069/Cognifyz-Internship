@@ -1,0 +1,47 @@
+  0 1 2
+0  | | 
+  -----
+1  | |
+  -----
+2  | |
+Player X, enter your move (row and column): 
+0 2
+  0 1 2
+0  | |X
+  -----
+1  | |
+  -----
+2  | |
+Player O, enter your move (row and column):
+2 2
+  0 1 2
+0  | |X
+  -----
+1  | |
+  -----
+2  | |O
+Player X, enter your move (row and column):
+1 1
+  0 1 2
+0  | |X
+  -----
+1  |X|
+  -----
+2  | |O
+Player O, enter your move (row and column):
+1 2
+  0 1 2
+0  | |X
+  -----
+1  |X|O
+  -----
+2  | |O
+Player X, enter your move (row and column):
+2 0
+  0 1 2
+0  | |X
+  -----
+1  |X|O
+  -----
+2 X| |O
+Player X wins!

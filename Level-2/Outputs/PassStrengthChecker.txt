@@ -1,0 +1,2 @@
+Enter the password to check the Strength of it: V#msi567
+Entered password is a Strong password

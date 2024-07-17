@@ -1,0 +1,6 @@
+Enter the temparature 
+36
+Now enter the format of above entered temparature
+If fahrenheit == 'F'  || Celsius == 'c'
+c
+The updted temparature from celsius to fahrenheit is : 96.8

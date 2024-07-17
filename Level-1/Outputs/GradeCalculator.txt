@@ -1,0 +1,6 @@
+Enter the no of grades 4
+Enter the grade for subject 1:8.62
+Enter the grade for subject 2:8.92
+Enter the grade for subject 3:8.88
+Enter the grade for subject 4:8.6
+The average of all the grades are :8.755001
